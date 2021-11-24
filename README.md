@@ -3,9 +3,7 @@
 The Prisoner’s Dilemma has been the focus of much research in the field of Game theory with
 countless papers analysing its characteristics and applications. Its ability to model strategic
 conflict however, is not unique. This infamous dilemma is part of a broad class of games,
-most of which often go unexplored. 
-
-In this paper, we introduce this class of two-person noncooperative non-zero-sum games known as 2×2 strict ordinal games. Exploring the space of
+most of which often go unexplored. In this paper, we introduce this class of two-person noncooperative non-zero-sum games known as 2×2 strict ordinal games. Exploring the space of
 games and constructing a coherent topology, we aim to identify the similarities and differences
 between the various strategic situations of conflict and cooperation they represent. Following
 from the interest in the iterated Prisoner’s Dilemma, we develop a Markov model for simulating
