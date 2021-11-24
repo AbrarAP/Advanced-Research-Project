@@ -13,7 +13,7 @@ to assess the correlation between successful strategy selection and the relation
 recent study of evolutionary game theory. Analysing the replicator dynamics of two-population
 systems, we look to develop a toolkit for the analysis of asymmetric games.
 
-See the final report <a href="/A Topology of Two Person Games and Evolutionary Dynamics of Iterated Play.pdf">here</a>.
+See the final report <a href="/A_Topology_of_Two-Person_Games_and_Evolutionary_Dynamics_of_Iterated_Play.pdf">here</a>.
 
 <p align="center">
   <img src="/2x2 Games.png" width="900" title="hover text">
